@@ -1,0 +1,6 @@
+.venv
+.env
+Pipfile
+Pipfile.lock
+__pycache__/
+mydatabase
